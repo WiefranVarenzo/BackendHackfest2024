@@ -1,6 +1,16 @@
 # BackendHackfest2024
 Pengumpulan Hackfest 2024
 
+Anggota TiM GaLibur membuat aplikasi Neture:
+1. Stephen Helenus R
+2. Zaki Alfadilah
+3. Felix Rafael
+4. Wiefran Varenzo
+
+Nama aplikasi kami adalah Neture, suatu aplikasi mobile yang digunakan berkaitan dengan Lingkungan untuk menangani kebersihan dan kemiskinan sekaligus. Disini, Orang yang bekerja sebagai pembersih lingkungan, pengangguran, dan pecinta lingkungan yang suka membersihkan tempat yang kotor atau penuh sampah akan mendapatkan penghasilan tambahan. Tidak hanya itu, orang-orang yang tidak sanggup untuk membersihkan lingkungannya yang kotor akan bisa meminta orang lain dengan mengirimkan imbalan berupa uang, sehingga bisa terjadi transaksi ekonomi yang saling menguntungkan.
+
+
+Cara Pemakaian
 1. Downloadlah APK (Debug APP)
 2. Jalankan instalasi APK
 3. Login untuk bisa masuk ke aplikasi, jika belum login, maka registrasi terlebih dahulu
