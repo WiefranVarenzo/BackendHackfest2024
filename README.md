@@ -18,5 +18,5 @@ Pengumpulan Hackfest 2024
 
 <img width="185" alt="Screenshot 2024-01-19 003707" src="https://github.com/WiefranVarenzo/BackendHackfest2024/assets/92115374/fc8d4dbd-b312-43f4-b37a-1b99578ba2f4">
 
-<img width="185" alt="Screenshot 2024-01-19 003707" src="https://github.com/WiefranVarenzo/BackendHackfest2024/assets/92115374/fb9ecd03-e415-42cb-a9be-4ba860fd6304">
+
 
